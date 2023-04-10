@@ -32,7 +32,7 @@ dependencies = [] # additional packages
 
 [project.urls]
 homepage = "https://github.com/wpk-nist-gov/test-package"
-documentation = "https://pages.nist.gov/test-package/"
+documentation = "https://wpk-nist-gov.github.io/test-package/"
 
 [project.optional-dependencies]
 test = [

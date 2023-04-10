@@ -292,15 +292,15 @@ html_theme_options = dict(
 # handle nist css/js from here.
 html_css_files = [
     # "css/nist-combined.css",
-    "https://pages.nist.gov/nist-header-footer/css/nist-combined.css",
-    "https://pages.nist.gov/leaveNotice/css/jquery.leaveNotice.css",
+    "https://wpk-nist-gov.github.io/nist-header-footer/css/nist-combined.css",
+    "https://wpk-nist-gov.github.io/leaveNotice/css/jquery.leaveNotice.css",
 ]
 
 html_js_files = [
     "https://code.jquery.com/jquery-3.6.2.min.js",
-    "https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js",
+    "https://wpk-nist-gov.github.io/nist-header-footer/js/nist-header-footer.js",
     # "js/nist-header-footer.js",
-    "https://pages.nist.gov/leaveNotice/js/jquery.leaveNotice-nist.min.js",
+    "https://wpk-nist-gov.github.io/leaveNotice/js/jquery.leaveNotice-nist.min.js",
     "js/leave_notice.js",
     # google stuff:
     (

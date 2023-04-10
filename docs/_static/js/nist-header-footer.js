@@ -8,7 +8,7 @@ $(document).ready(function () {
 
   $("body").prepend('<div id="nistheadergoeshere"></div>');
   $.ajax({
-    url: "https://pages.nist.gov/nist-header-footer/boilerplate-header.html",
+    url: "https://wpk-nist-gov.github.io/nist-header-footer/boilerplate-header.html",
     cache: false,
     dataType: "html",
     success: function (data) { $('#nistheadergoeshere').append(data); },
@@ -16,7 +16,7 @@ $(document).ready(function () {
 
   $("body").append('<div id="nistfootergoeshere"></div>');
   $.ajax({
-    url: "https://pages.nist.gov/nist-header-footer/boilerplate-footer.html",
+    url: "https://wpk-nist-gov.github.io/nist-header-footer/boilerplate-footer.html",
     cache: false,
     dataType: "html",
     success: function (data) { $('#nistfootergoeshere').append(data); },

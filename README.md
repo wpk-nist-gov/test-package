@@ -12,7 +12,7 @@
 <!-- [pypi-badge]: https://badge.fury.io/py/test-package -->
 [pypi-link]: https://pypi.org/project/test-package
 [docs-badge]: https://img.shields.io/badge/docs-sphinx-informational
-[docs-link]: https://pages.nist.gov/test-package/
+[docs-link]: https://wpk-nist-gov.github.io/test-package/
 [repo-badge]: https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff
 [repo-link]: https://github.com/wpk-nist-gov/test-package
 [conda-badge]: https://img.shields.io/conda/v/wpk-nist/test-package
