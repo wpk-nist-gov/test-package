@@ -1,0 +1,9 @@
+name: testpackage-env
+channels:
+  - conda-forge
+  - wpk-nist
+dependencies:
+  - python>=3.8,<3.11
+  # cli
+  
+  
