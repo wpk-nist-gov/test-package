@@ -8,18 +8,18 @@
 
 [black-badge]: https://img.shields.io/badge/code%20style-black-000000.svg
 [black-link]: https://github.com/ambv/black
-[pypi-badge]: https://img.shields.io/pypi/v/test-package
-<!-- [pypi-badge]: https://badge.fury.io/py/test-package -->
-[pypi-link]: https://pypi.org/project/test-package
+[pypi-badge]: https://img.shields.io/pypi/v/testpackage
+<!-- [pypi-badge]: https://badge.fury.io/py/testpackage -->
+[pypi-link]: https://pypi.org/project/testpackage
 [docs-badge]: https://img.shields.io/badge/docs-sphinx-informational
-[docs-link]: https://wpk-nist-gov.github.io/test-package/
+[docs-link]: https://wpk-nist-gov.github.io/testpackage/
 [repo-badge]: https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff
-[repo-link]: https://github.com/wpk-nist-gov/test-package
-[conda-badge]: https://img.shields.io/conda/v/wpk-nist/test-package
-[conda-link]: https://anaconda.org/wpk-nist/test-package
+[repo-link]: https://github.com/wpk-nist-gov/testpackage
+[conda-badge]: https://img.shields.io/conda/v/wpk-nist/testpackage
+[conda-link]: https://anaconda.org/wpk-nist/testpackage
 <!-- Use total link so works from anywhere -->
 [license-badge]: https://img.shields.io/pypi/l/cmomy?color=informational
-[license-link]: https://github.com/wpk-nist-gov/test-package/blob/master/LICENSE
+[license-link]: https://github.com/wpk-nist-gov/testpackage/blob/master/LICENSE
 <!-- For more badges, see https://shields.io/category/other and https://naereen.github.io/badges/ -->
 
 [numpy]: https://numpy.org
@@ -27,7 +27,7 @@
 [xarray]: https://docs.xarray.dev/en/stable/
 
 
-# `test-package`
+# `testpackage`
 
 A Python package for stuff.
 
@@ -52,13 +52,13 @@ This package is actively used by the author.  Please feel free to create a pull 
 Use one of the following
 
 ``` bash
-pip install test-package
+pip install testpackage
 ```
 
 or
 
 ``` bash
-conda install -c wpk-nist test-package
+conda install -c wpk-nist testpackage
 ```
 
 ## Example usage
@@ -73,7 +73,7 @@ import testpackage
 
 ## Documentation
 
-See the [documentation][docs-link] for a look at `test-package` in action.
+See the [documentation][docs-link] for a look at `testpackage` in action.
 
 ## License
 

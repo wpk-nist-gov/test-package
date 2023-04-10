@@ -9,7 +9,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at <https://github.com/wpk-nist-gov/test-package/issues>.
+Report bugs at <https://github.com/wpk-nist-gov/testpackage/issues>.
 
 If you are reporting a bug, please include:
 
@@ -29,13 +29,13 @@ and "help wanted" is open to whoever wants to implement it.
 
 ### Write Documentation
 
-`test-package` could always use more documentation, whether as part of the
-official `test-package` docs, in docstrings, or even on the web in blog posts,
+`testpackage` could always use more documentation, whether as part of the
+official `testpackage` docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 ### Submit Feedback
 
-The best way to send feedback is to file an issue at <https://github.com/wpk-nist-gov/test-package/issues>.
+The best way to send feedback is to file an issue at <https://github.com/wpk-nist-gov/testpackage/issues>.
 
 If you are proposing a feature:
 
@@ -91,7 +91,7 @@ Ready to contribute? Here's how to set up `testpackage` for local development.
 2. Clone your fork locally:
 
     ```bash
-    git clone git@github.com:your_name_here/test-package.git
+    git clone git@github.com:your_name_here/testpackage.git
     ```
 
 3. Create development environment.  Using the `make` will install a development version using mamba.

@@ -1,5 +1,5 @@
 """
-.. currentmodule: test-package
+.. currentmodule: testpackage
 
 Top level stuff
 ===============

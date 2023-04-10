@@ -122,7 +122,7 @@ github_username = "wpk-nist-gov"
 
 html_context = {
     "github_user": "wpk-nist-gov",
-    "github_repo": "test-package",
+    "github_repo": "testpackage",
     "github_version": "master",
     "doc_path": "docs",
 }
@@ -224,7 +224,7 @@ source_suffix = {
 master_doc = "index"
 
 # General information about the project.
-project = "test-package"
+project = "testpackage"
 copyright = "2023, William P. Krekelberg"
 author = "William P. Krekelberg"
 
@@ -279,7 +279,7 @@ html_theme = "sphinx_book_theme"
 html_theme_options = dict(
     # analytics_id=''  this is configured in rtfd.io
     # canonical_url="",
-    repository_url=f"https://github.com/{github_username}/test-package",
+    repository_url=f"https://github.com/{github_username}/testpackage",
     repository_branch=html_context["github_version"],
     path_to_docs=html_context["doc_path"],
     # use_edit_page_button=True,
@@ -361,7 +361,7 @@ latex_documents = [
     (
         master_doc,
         "testpackage.tex",
-        "test-package Documentation",
+        "testpackage Documentation",
         "William P. Krekelberg",
         "manual",
     ),
@@ -376,7 +376,7 @@ man_pages = [
     (
         master_doc,
         "testpackage",
-        "test-package Documentation",
+        "testpackage Documentation",
         [author],
         1,
     ),
@@ -392,7 +392,7 @@ texinfo_documents = [
     (
         master_doc,
         "testpackage",
-        "test-package Documentation",
+        "testpackage Documentation",
         author,
         "testpackage",
         "One line description of project.",
@@ -461,7 +461,7 @@ def linkcode_resolve(domain, info):
 
     fn = os.path.relpath(fn, start=os.path.dirname(testpackage.__file__))
 
-    return f"https://github.com/{github_username}/test-package/blob/{html_context['github_version']}/src/testpackage/{fn}{linespec}"
+    return f"https://github.com/{github_username}/testpackage/blob/{html_context['github_version']}/src/testpackage/{fn}{linespec}"
 
 
 # only set spelling stuff if installed:

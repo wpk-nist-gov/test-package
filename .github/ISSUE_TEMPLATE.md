@@ -1,4 +1,4 @@
-* test-package version:
+* testpackage version:
 * Python version:
 * Operating System:
 

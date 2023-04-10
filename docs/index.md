@@ -1,4 +1,4 @@
-# Welcome to test-package's documentation!
+# Welcome to testpackage's documentation!
 
 ```{include} ../README.md
 :end-before: <!-- end-docs -->

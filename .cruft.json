@@ -9,7 +9,7 @@
       "github_username": "wpk-nist-gov",
       "pypi_username": "wpk-nist",
       "conda_channel": "wpk-nist",
-      "project_name": "test-package",
+      "project_name": "testpackage",
       "project_slug": "testpackage",
       "_copy_without_render": [
         "*.html",
