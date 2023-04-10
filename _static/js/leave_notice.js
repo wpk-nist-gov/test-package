@@ -14,7 +14,7 @@ $(document).ready(function(){
   });
   // Add leaveNotice to external A elements
   $('a.external').leaveNotice({
-      siteName: 'pages.nist.gov',
+      siteName: 'wpk-nist-gov.github.io',
       timeOut: 2000,
       overlayAlpha: 0.1,
   });
